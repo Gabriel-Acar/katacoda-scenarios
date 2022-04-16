@@ -9,7 +9,7 @@ This tutorial is designed for people who are somewhat familiar with github, and 
 # What is Heroku?
 
 Heroku is a cloud platform with support for many programming languages that allows developers to build, run and scale applications. Amongst other things, Heroku allows users to host their applications in virtual containers online, which can be navigated to using their unique URL.
-![heroku](Assets/heroku.png)
+<img src = Assets/Heroku.png/>
 
 ## Learning Objectives
 
