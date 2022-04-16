@@ -13,6 +13,7 @@ Heroku is a cloud platform with support for many programming languages that allo
 <img src = "heroku.png"/>
 ![](./Assets/heroku.png)
 ![](./heroku.png)
+
 ## Learning Objectives
 
 * How to deploy an app to Heroku
