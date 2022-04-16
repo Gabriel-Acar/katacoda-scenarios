@@ -9,7 +9,7 @@ This tutorial is designed for people who are somewhat familiar with github, and 
 # What is Heroku?
 
 Heroku is a cloud platform with support for many programming languages that allows developers to build, run and scale applications. Amongst other things, Heroku allows users to host their applications in virtual containers online, which can be navigated to using their unique URL.
-![Image showing the correlation between end product, heroku, github and development.](Assets/heroku-github-illustration.png "heroku-github-illustration")
+![](Assets/heroku-github-illustration.png)
 
 ## Learning Objectives
 
