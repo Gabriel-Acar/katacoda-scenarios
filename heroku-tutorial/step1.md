@@ -7,3 +7,8 @@ In order to fork navigate to [Robot Friend](https://github.com/c-cret/css-robot)
 
  ![Fork](assets/fork.png)
 
+You will be promted to give the fork a name, if you don't care just go ahead and create a fork. 
+
+ ![Create fork](assets/create_fork.png)
+ 
+ 
