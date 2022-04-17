@@ -5,5 +5,5 @@ We have made one repo that you can fork to follow this totorial, it contains a s
 
 In order to fork navigate to [Robot Friend](https://github.com/c-cret/css-robot) repo and click on fork on the top right hand corner:
 
- ![Fork](/assets/fork.png "Check" 128 128)
+ ![Fork](assets/fork.png "Check" 128 128)
 
