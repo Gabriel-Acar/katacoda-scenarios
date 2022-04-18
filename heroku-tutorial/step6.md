@@ -8,4 +8,4 @@ In the deploy section of your app, choose GitHub. This will show you alternative
 
 At this stage you will have to connect your Heroku account to your GitHub account by pressing "Connect to GitHub" as illustrated in the image.
 
-![Git](asset/github.png)
+![Git](assets/github.png)
