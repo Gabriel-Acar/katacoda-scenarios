@@ -21,4 +21,5 @@ After that, we need to go ahead and navigate to our cloned repo. This can be don
 
   >`cd reactHelloWorld`{{execute}} 
 
-Once there, the command `heroku create`{{execute}} will create a new Heroku app on your account. The app will get a random name, if you want to specify the name, this can be done using `heroku create 'name'` instead.
+Once there, the command `heroku create`{{execute}} will create a new Heroku app on your account. 
+The app will get a random name, if you want to specify the name, this can be done using `heroku create 'name'` instead.
