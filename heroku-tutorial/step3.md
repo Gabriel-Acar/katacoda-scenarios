@@ -2,7 +2,7 @@
 
 If you used the browser for the previous step, creating your Heroku app, then you still have to connect that app to your github repo.
 This can be done by navigating to your repository on your terminal.
-Then run the command `heroku git:remote -a *application name*`{{execute}}.
+Then run the command `heroku git:remote -a *application name*`.
 
 This should set up a remote from your repository to Heroku.
 To make sure that your repository has a remote set up, you can run the command `git remote -v`{{execute}}.
