@@ -7,7 +7,7 @@ Then run the command `heroku git:remote -a *application name*`.
 
 This should set up a remote from your repository to Heroku.
 To make sure that your repository has a remote set up, you can run the command `git remote -v`{{execute}}.
-You should see atleast TODO entry with heroku.
+You should see atleast 2 entries with heroku, one for push and one for fetch.
 
 In order to now deploy your app run the following commands in order:
 
