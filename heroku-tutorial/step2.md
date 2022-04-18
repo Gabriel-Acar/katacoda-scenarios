@@ -1,7 +1,5 @@
 # Heroku
 
-Before we start, you can follow all the intructions of the tutorial on your own machine or here in Katakodas virtual enviroment. When ypu are promted to execute something you will execute it on your preferred machine.
-
 Login into [Heroku](https://id.heroku.com/login).
 
 On the Heroku dashboard, create a new apllication.
