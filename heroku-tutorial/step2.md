@@ -6,6 +6,8 @@ Login into [Heroku](https://id.heroku.com/login).
 
 On the Heroku dashboard, create a new apllication.
 
+![New App](/assets/heroku_new_app.png)
+
 After creating ypur new application enter the application. On the applications dashboard navigate to the deploy menu. Here you will get intructions on how to deploy your application.
 
 First of 'heroku login'{{execute}}. Follow the instructions on the terminal.
