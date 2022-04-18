@@ -12,7 +12,11 @@ On the Heroku dashboard, create a new apllication.
 
 After creating ypur new application enter the application. On the applications dashboard navigate to the deploy menu. Here you will get intructions on how to deploy your application.
 
-First of 'heroku login'{{execute}}. Follow the instructions on the terminal.
+First of, we need to login to heroku via the terminal:
+
+  >'heroku login'{{execute}}. 
+ 
+Follow the instructions on the terminal.
 
 After that, go ahead and run 'heroku git:clone -a robot-friends'{{execute}} to create a new remote herouke branch that we will use to push our changes later. 
 
