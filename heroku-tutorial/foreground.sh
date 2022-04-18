@@ -1,6 +1,6 @@
 #!/bin/bash
 
-printf "Please wait while Heroku CLI is installed.";
+echo "Please wait while Heroku CLI is installed.";
 
 snap install heroku --classic;
 
