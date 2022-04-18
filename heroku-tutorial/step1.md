@@ -1,3 +1,5 @@
+Before we start, you can follow all the intructions of the tutorial on your own machine or here in Katakodas virtual enviroment. When you are promted to execute something, execute it on your preferred machine. Just make sure to stick with one option throughout the tutorial!
+
 # Getting started 
 In order to follow this totorial, you will need a Github repo that you want to deploy on Heroku. 
 For simpliciy, and to make sure everything works as intended, we have prepare a repo you can fork to follow this tutorial, it contains a simple React application.
