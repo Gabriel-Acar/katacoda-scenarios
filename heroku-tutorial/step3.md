@@ -12,8 +12,12 @@ In order to now deploy your app run the following commands in order:
 
 `git add .`{{execute}}.
 `git commit -am "Deploying"`{{execute}}.
-`git push heroku main`{{executable}}.
+`git push heroku main`{{execute}}.
+
+This might take a minute...
 
 Congratulations! Your application should now be deployed and the terminal should output the webb address for your app, it should look something like `https://APP_NAME.herokuapp.com/`.
 
 You can also run the following command to make sure that atleast one instance of your app is running: `heroku ps:scale web=1`{{execute}}.
+
+The terminal should output `Scaling dynos... done, now running web at 1:Free`, this means your application is online!
