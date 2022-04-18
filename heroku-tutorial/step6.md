@@ -9,3 +9,16 @@ In the deploy section of your app, choose GitHub. This will show you alternative
 At this stage you will have to connect your Heroku account to your GitHub account by pressing "Connect to GitHub" as illustrated in the image.
 
 ![Git](assets/github.png)
+
+Once you have sucessfully connected your accounts, your view under the github section of the deploy tab should look different. 
+You should now have a field where you can search for the name of your repository. Make sure to connect to the correct repo!
+
+You should yet again have a different view once you have connected your Heroku application your GitHub repo.
+It should now look something like the following image.
+
+![connected](assets/connected.png)
+
+You now have the option to enable automatic deploys, decide what branch to deploy from, and manually deploy from a selected branch in the repo.
+One important option is to wait for any CI to pass before deploying. This allows you to viably integrate this into your CI/CD pipeline!
+
+You can now start auto-deploying by simply pushing/merging your new code into the selected branch of your repo. Furthermore, you can also see the history of all builds in the activity tab.
