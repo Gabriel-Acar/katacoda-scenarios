@@ -1,6 +1,7 @@
 # Checking the logs
 Heroku gathers all output streams from your app and Herkou components and allows you to view the information of the events in a log.
 This information can be viewed using different log commands.
+
 In order to see information about your deployed app, use the following command.
 
 `heroku logs --tail`{{execute}}
