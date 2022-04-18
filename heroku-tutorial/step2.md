@@ -19,7 +19,11 @@ After that, go ahead and run 'heroku git:clone -a robot-friends'{{execute}} to c
 After that you will push to the heroku branch by executing:
 
   >'git add .'{{execute}}
+
+
   >'git commit -am "make it better"'{{execute}}
+
+
   >'git push heroku master'{{execute}}
 
 After this your application should be deployed on Heroku! 
